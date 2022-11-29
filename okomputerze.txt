@@ -1,1 +1,56 @@
 Linux Dell-Trivium 6.0.6-arch1-1 #1 SMP PREEMPT_DYNAMIC Sat, 29 Oct 2022 14:08:39 +0000 x86_64 GNU/Linux
+MemTotal:       32718060 kB
+MemFree:        31448892 kB
+MemAvailable:   31811196 kB
+Buffers:           49916 kB
+Cached:           790680 kB
+SwapCached:            0 kB
+Active:           448808 kB
+Inactive:         423100 kB
+Active(anon):       1012 kB
+Inactive(anon):   163608 kB
+Active(file):     447796 kB
+Inactive(file):   259492 kB
+Unevictable:      131692 kB
+Mlocked:               0 kB
+SwapTotal:       8340476 kB
+SwapFree:        8340476 kB
+Zswap:                 0 kB
+Zswapped:              0 kB
+Dirty:                 0 kB
+Writeback:             0 kB
+AnonPages:        163032 kB
+Mapped:           131080 kB
+Shmem:            133308 kB
+KReclaimable:      47856 kB
+Slab:             108756 kB
+SReclaimable:      47856 kB
+SUnreclaim:        60900 kB
+KernelStack:        3788 kB
+PageTables:         3236 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    24699504 kB
+Committed_AS:     805784 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       34044 kB
+VmallocChunk:          0 kB
+Percpu:             4128 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:     75776 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:     67584 kB
+FilePmdMapped:     14336 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      158296 kB
+DirectMap2M:     4927488 kB
+DirectMap1G:    28311552 kB
