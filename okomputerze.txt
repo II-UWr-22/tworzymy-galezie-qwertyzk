@@ -1,0 +1,1 @@
+Linux Dell-Trivium 6.0.6-arch1-1 #1 SMP PREEMPT_DYNAMIC Sat, 29 Oct 2022 14:08:39 +0000 x86_64 GNU/Linux
